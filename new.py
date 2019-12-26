@@ -1,6 +1,6 @@
-a=1
-b=1
-c=1
+a=2
+b=2
+c=2
 def sum(a,b,c):
   d = a+b+c
   return d
